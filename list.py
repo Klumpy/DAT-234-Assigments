@@ -2,6 +2,6 @@ names = ["Christoffer Bergland", "Thomas Olsen", "Leander Thorkildsen", "Theodor
 
 usernames = ["chrisb", "thomao", "leandt", "theodf"]
 
-len = len(names)
-for i in range(len):
+length = len(names)
+for i in range(lenght):
     print names[i] , ' : ', usernames[i]

@@ -7,14 +7,17 @@ Print out the belonging username and password"""
 
 
 
-dict = {"chris":"helloworld", "john":"passw1", "nelly":"2hell1", "wendy":"1Passw"}
+myDict = {"chris":"helloworld", "john":"passw1", "nelly":"2hell1", "wendy":"1Passw"}
 
-for user, password in dict.items():
+for user, password in myDict.items():
     if len(password) == 6:
         if password[0].isdigit():
-            for j in password:
-                if j.isupper():
-                    print user, password
-    
+            count = 0
+            for character in password:
+                if character.isupper():
+                    count += 1
+            if count == 1:
+                print user, password
+
         
         
