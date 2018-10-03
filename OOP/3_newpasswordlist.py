@@ -26,8 +26,10 @@ try:
 except OSError as e:
     if e.errno == ENOENT:
         print "Error: File not found"
+        quit()
     if e.errno == EPERM:
         print "Error: Permission denied"
+        quit()
     else:
         print "Opening file.."
 
@@ -37,6 +39,7 @@ except OSError as e:
 if not data:
     print "List is empty. No need to continue.."
     quit()
+
 
 myList = data.split(';')
 del myList[-1]
