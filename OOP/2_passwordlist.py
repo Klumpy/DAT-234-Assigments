@@ -6,8 +6,10 @@ try:
 except OSError as e:
     if e.errno == ENOENT:
         print "Error: File not found"
+        quit()
     if e.errno == EPERM:
         print "Error: Permission denied"
+        quit()
     else:
         print "Opening file.."
 
