@@ -1,0 +1,7 @@
+pass = raw_input("type pass: ")
+if(len(pass) > 20)
+    print("To long")
+elif(len(pass) < 8)
+    print("To short")
+else()
+    print("Just right")

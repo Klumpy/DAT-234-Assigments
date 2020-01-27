@@ -1,0 +1,192 @@
+
+*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* TheHarvester Ver. 2.7                                           *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************
+
+
+Full harvest..
+[-] Searching in Google..
+	Searching 0 results...
+	Searching 100 results...
+[-] Searching in PGP Key server..
+[-] Searching in Bing..
+	Searching 50 results...
+	Searching 100 results...
+[-] Searching in Exalead..
+	Searching 50 results...
+	Searching 100 results...
+	Searching 150 results...
+
+
+[+] Emails found:
+------------------
+Agderpost@uia.no
+Ingrid.t.angeltvedt@uia.no
+Polyxeni.Vasilakopoulou@uia.no
+carl.e.moe@uia.no
+christian.holden@uia.no
+csirt@uia.no
+daniel.goller@uia.no
+einar.d.bohn@uia.no
+evuopptakr@uia.no
+gro.frivold@uia.no
+helge.hoynes@uia.no
+henrin10@uia.no
+janl13@student.uia.no
+john.ploger@uia.no
+lars.nesland@uia.no
+laszlo.erdodi@uia.no
+liv.b.friestad@uia.no
+malintm@uia.no
+maurice.isabwe@uia.no
+nils.k.hansen@uia.no
+oystein.sylta@uia.no
+oyvind.nesland@uia.no
+pixel-1535705160721266-web-@uia.no
+pixel-1535705163152655-web-@uia.no
+pixel-1535705165219071-web-@uia.no
+post@uia.no
+rl@uia.no
+robert.larsen@uia.no
+sigurd.m.assev@uia.no
+sta@uia.no
+terje.gjosater@uia.no
+tina.l.barken@uia.no
+
+[+] Hosts found in search engines:
+------------------------------------
+[-] Resolving hostnames IPs... 
+158.36.36.189:2Femco.project.uia.no
+158.36.36.189:2Femrg.project.uia.no
+158.36.166.164:Old.uia.no
+158.37.221.30:beta.uia.no
+158.37.221.137:cair.uia.no
+158.36.36.189:ciem.prosjekt.uia.no
+89.221.244.49:ciem.uia.no
+158.36.166.165:coastalresearch.uia.no
+158.36.36.189:emco.project.uia.no
+158.36.36.189:emrg.project.uia.no
+158.36.166.159:eras.uia.no
+158.36.51.146:foto.uia.no
+128.39.145.244:grimstad-mp.uia.no
+158.36.52.10:grimstad.uia.no
+158.37.220.165:home.uia.no
+158.36.166.182:iscram2015.uia.no
+158.36.166.165:jois.uia.no
+158.36.166.184:journal.uia.no
+158.36.166.229:kompetanse.uia.no
+158.36.87.8:kristiansand-mp.uia.no
+158.36.232.72:krs-158-36-232-72.studby.uia.no
+158.37.220.166:kurs.uia.no
+52.48.240.72:libguides.uia.no
+89.221.250.26:makromedia.uia.no
+158.36.52.21:media.uia.no
+158.36.52.11:mesh.uia.no
+158.36.36.40:ns1.uia.no
+158.36.51.40:ns2.uia.no
+158.36.166.164:old.uia.no
+158.37.220.31:owa.uia.no
+158.36.36.189:prosjekt.uia.no
+158.36.166.174:skolebibliotek.uia.no
+158.36.166.172:student.uia.no
+188.138.32.138:tflip.uia.no
+158.37.220.133:tools.uia.no
+158.36.166.174:www.skolebibliotek.uia.no
+158.37.220.160:www.uia.no
+[+] Virtual hosts:
+==================
+89.221.244.49	www.brgruppen.no
+89.221.244.49	gardsbruk.no
+89.221.244.49	univa.no
+89.221.244.49	www.ostereng.no
+89.221.244.49	legalspania.com
+89.221.244.49	strai.no
+89.221.244.49	www.hovdenhytteservice.no
+89.221.244.49	www.univa.no
+89.221.244.49	smso-agder.no
+89.221.244.49	mkirken.no
+89.221.244.49	arna-misjonsmenighet.no
+89.221.244.49	frimisjonen.no
+89.221.244.49	nsft.net
+89.221.244.49	misjonskirka.net
+89.221.244.49	ciem
+89.221.244.49	intranett.otera.no
+89.221.244.49	bigcatering.no
+89.221.244.49	www.svc.as
+89.221.244.49	torinokledet.no
+89.221.244.49	morfarbarn.no
+89.221.244.49	aaneslandlimtre.no
+89.221.244.49	www.heimover.no
+89.221.244.49	haugeinstitute.org
+89.221.244.49	infomap.no
+89.221.244.49	www.ufotrafikkskole.no
+89.221.244.49	saevind.no
+89.221.244.49	www.saevind.no
+89.221.244.49	www.interfreight.no
+89.221.244.49	stemmerettsjubileet.no
+89.221.244.49	www.kjellevikhansen.no
+89.221.244.49	www.odderoya.no
+89.221.244.49	www.progressia.no
+89.221.244.49	ciem.uia.no
+89.221.244.49	www.smso-agder.no
+89.221.244.49	www.arna-misjonsmenighet.no
+89.221.244.49	www.morfarbarn.no
+89.221.244.49	odderoya.no
+89.221.244.49	www.legalspania.com
+158.36.166.165	jois.uia.no
+158.36.166.165	wisenet.uia.no
+158.36.166.165	coastalresearch.uia.no
+158.36.166.165	friluft.uia.no
+158.36.166.165	www.ladyklukk.no
+158.36.166.165	kik.uia.no
+158.36.166.165	mcg.uia.no
+52.48.240.72	libguides.ucc.ie
+52.48.240.72	library.worc.ac.uk
+52.48.240.72	libguides.hull.ac.uk
+52.48.240.72	parisdescartes.libguides.com
+52.48.240.72	biblioguias.unex.es
+52.48.240.72	hv.se.libguides.com
+52.48.240.72	libguides.stir.ac.uk
+52.48.240.72	libguides.ioe.ac.uk
+52.48.240.72	biblioguias.ulpgc.es
+52.48.240.72	libguides.qub.ac.uk
+52.48.240.72	libguides.city.ac.uk
+52.48.240.72	guides.library.lincoln.ac.uk
+52.48.240.72	www.natolibguides.info
+52.48.240.72	libguides.shu.ac.uk
+89.221.250.26	www.bastionen.no
+89.221.250.26	wpc.lmk.no
+89.221.250.26	www.jegu.no
+89.221.250.26	nmf.nu
+89.221.250.26	www.roligheden.no
+89.221.250.26	www.broderiservice.no
+89.221.250.26	www.lundsvagen-batforening.no
+89.221.250.26	utedusj.no
+89.221.250.26	x-rayukh.no
+89.221.250.26	www.kordacapo.no
+89.221.250.26	www.batforerproven.com
+89.221.250.26	www.ah-ark.no
+89.221.250.26	torpo.no
+89.221.250.26	dahr.no
+89.221.250.26	moester.no
+89.221.250.26	www.sgk.no
+89.221.250.26	www.vhfkurs.no
+89.221.250.26	www.tauboll.no
+89.221.250.26	www.hvesser.no
+89.221.250.26	www.b&#229;tf&#248;rerpr&#248;ven.com
+89.221.250.26	vulcanriders-sweden.org
+89.221.250.26	www.nmf.nu
+89.221.250.26	www.saterglantan.se
+158.36.166.174	www.skolebibliotek.uia.no
+158.37.220.160	www.uia.no
+158.37.220.160	www.allevarer.no
+158.37.220.160	libguides.uia.no
